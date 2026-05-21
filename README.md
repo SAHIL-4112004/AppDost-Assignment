@@ -78,6 +78,4 @@ npm run build
 
 ---
 
-## 📝 License
 
-Developed with ❤️ in India by **AppDost**. All rights reserved.
